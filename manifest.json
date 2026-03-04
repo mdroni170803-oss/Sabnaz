@@ -1,0 +1,21 @@
+{
+  "name": "My Age ",
+  "short_name": "My Age",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#06b6d4",
+  "description": "App For Admin Management",
+  "icons":[
+    {
+      "src": "my_age1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "my_age.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
